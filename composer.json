@@ -1,0 +1,24 @@
+{
+    "name": "babyun/upyun-php-sdk",
+    "description": "PHP SDK for UpYun",
+    "version": "0.1.0",
+    "keywords": [
+        "upyun"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/babyun/upyun-php-sdk",
+    "authors": [
+        {
+            "name": "Tony Lu",
+            "email": "dev@tony.engineer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "upyun.class.php"
+        ]
+    }
+}
