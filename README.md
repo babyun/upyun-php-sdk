@@ -3,4 +3,8 @@
 
 这个是从又拍云 fork 过来的, 加个 composer 配置, 便于使用 composer 管理.
 
+```
+composer require lucups/upyun-php-sdk
+```
+
 [原文档地址](docs.md)
