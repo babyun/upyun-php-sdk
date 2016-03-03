@@ -1,5 +1,5 @@
 {
-    "name": "lucups/upyun-php-sdk",
+    "name": "babyun/upyun-php-sdk",
     "description": "PHP SDK for UpYun",
     "version": "0.1.0",
     "keywords": [
