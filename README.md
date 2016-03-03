@@ -3,4 +3,4 @@
 
 这个是从又拍云 fork 过来的, 加个 composer 配置, 便于使用 composer 管理.
 
-- [原文档地址](docs.md)
+[原文档地址](docs.md)
