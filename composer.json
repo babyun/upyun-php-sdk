@@ -3,7 +3,8 @@
     "description": "PHP SDK for UpYun",
     "version": "0.1.0",
     "keywords": [
-        "upyun"
+        "upyun",
+        "upyun-php-sdk"
     ],
     "license": "MIT",
     "homepage": "https://github.com/babyun/upyun-php-sdk",
